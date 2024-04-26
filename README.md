@@ -1,8 +1,8 @@
 ## Food Delivery application
-it consists of 3 folders:
-1- frontend : for normal users who need to start orders after signing up or loging in.
-2- Admin: for admin who can add food, list food and update the status of orders.
-3-Backend: for the logic and functionality of the whole website.
+it consists of 3 folders:<br>
+1- frontend : for normal users who need to start orders after signing up or loging in.<br>
+2- Admin: for admin who can add food, list food and update the status of orders.<br>
+3-Backend: for the logic and functionality of the whole website.<br>
 
 ## How to use the project:
 1- first run the backend folder 
