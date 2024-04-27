@@ -1,0 +1,46 @@
+.food-delivery-about {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.food-delivery-about img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5%;
+    box-shadow: 1px 7px 5px 1px #934902;
+}
+.food-delivery-about h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: orange;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+.about-content{
+    width: 50%;
+    padding: 2rem;
+}
+.about-content p {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+
+}
+.about-img {
+    width: 50%;
+    height: 100%;
+    
+}
+@media screen and (max-width: 768px) {
+    .food-delivery-about {
+        flex-direction: column;
+    }
+    .about-content {
+        width: 100%;
+    }
+    .about-img {
+        width: 100%;
+    }
+    
+}

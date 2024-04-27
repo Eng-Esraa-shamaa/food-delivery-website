@@ -1,0 +1,39 @@
+.Best-dishes h1{
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: orange;
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+    text-align: center;
+
+}
+.Best-dishes {
+    margin-top: 2rem;
+}
+
+.best-dishes-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 100px;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+.best-dish p {
+    font-size: 1rem;
+    color: #333;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    text-align: center;
+}
+.view-menu {
+    background-color: orange;
+    color: white;
+    padding: 12px 0px;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    width: 20%;
+    margin: auto;
+}
