@@ -37,3 +37,15 @@
     width: 20%;
     margin: auto;
 }
+@media screen and (max-width: 768px) {
+    .best-dishes-container {
+        flex-direction: column;
+    }
+    .best-dish {
+        margin-bottom: 2rem;
+    }
+    .view-menu {
+        width: 50%;
+    }
+
+}
